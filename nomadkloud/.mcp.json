@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nomadkloud": {
+      "type": "http",
+      "url": "https://nomadkloud-mcp.nomadkloud.workers.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nomadkloud",
+  "version": "1.20261112.1310",
+  "description": "NomadKloud Video Edit: edit talking-head reels with Claude using the NomadKloud skills, playbook and templates. Needs a NomadKloud account (sign in with Google).",
+  "author": {
+    "name": "NomadKloud",
+    "url": "https://nomadkloud.com"
+  },
+  "homepage": "https://nomadkloud.com",
+  "license": "SEE LICENSE IN https://nomadkloud-mcp.nomadkloud.workers.dev/terms",
+  "keywords": [
+    "video",
+    "editing",
+    "reels",
+    "remotion",
+    "nomadkloud"
+  ]
+}

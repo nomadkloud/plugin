@@ -1,0 +1,12 @@
+{
+  "name": "nomadkloud",
+  "owner": { "name": "NomadKloud", "url": "https://nomadkloud.com" },
+  "metadata": { "description": "NomadKloud plugins for Claude Code." },
+  "plugins": [
+    {
+      "name": "nomadkloud",
+      "source": "./nomadkloud",
+      "description": "NomadKloud Video Edit: edit talking-head reels with Claude using the NomadKloud skills, playbook and templates. Needs a NomadKloud account."
+    }
+  ]
+}
